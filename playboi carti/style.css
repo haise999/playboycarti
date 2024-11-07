@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(255, 0, 0);
+}
+
+img{
+    width: 100%;
+    height: auto;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    
+}
+
+@font-face {
+    font-family:Arcane ;
+    src: url(/Fonts/Arcane\ Nine.otf);
+  }
+
+  p{
+    font-family:Arcane ;
+  }
+
+ img{
+    border-radius: 50%;
+ }
+
+ h1{
+    font-weight: bold;
+ }
+
+  
+
